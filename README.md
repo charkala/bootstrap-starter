@@ -1,2 +1,3 @@
-# bootstrap-starter
-Bootstrap Starter Kit.
+# Bootstrap Starter Kit
+
+Quick and easy to use Bootstrap template.
